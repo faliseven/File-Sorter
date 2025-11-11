@@ -1,7 +1,6 @@
 # 🗂️ File Sorter v5.0
 
 ![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue?logo=python)
-![GUI CustomTkinter](https://img.shields.io/badge/GUI-CustomTkinter-007ACC)
 ![License GPLv3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 ![Languages](https://img.shields.io/badge/Languages-RU%20%7C%20EN-orange)
 ![Status](https://img.shields.io/badge/Project-Active-brightgreen)
