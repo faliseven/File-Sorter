@@ -25,7 +25,7 @@
 
 ## 🖥️ Скриншоты  
  
-![File Sorter Screenshot](https://github.com/user-attachments/assets/daa02f85-0088-4f68-b9ae-d48b57ab3d06)
+![File Sorter Screenshot](<img width="911" height="712" alt="2025-11-11_12-15" src="https://github.com/user-attachments/assets/b04dd63e-3f41-4795-aae3-d06bd3297a31" />)
 
 
 ---
